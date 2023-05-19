@@ -16,7 +16,7 @@ http://54.153.243.37/elearning/<?php if (!defined('BASEPATH')) {
 | path to your installation.
 |
  */
-$config['base_url'] = 'http://localhost/elearning/';
+$config['base_url'] = 'http://54.153.243.37/elearning/';
 
 /*
 |--------------------------------------------------------------------------
