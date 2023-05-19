@@ -51,7 +51,7 @@ mysql, mysqli, postgre, odbc, mssql, sqlite, oci8
 $active_group = 'default';
 $active_record = true;
 
-$db['default']['hostname'] = 'http://54.153.243.37';
+$db['default']['hostname'] = '54.153.243.37';
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'root';
 $db['default']['database'] = 'elearning';
